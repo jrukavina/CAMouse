@@ -1,0 +1,6 @@
+numpy~=1.21.2
+simpleaudio~=1.0.4
+opencv-python~=4.5.3.56
+mediapipe~=0.8.7.3
+mouse~=0.7.1
+future~=0.18.2
