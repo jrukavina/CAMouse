@@ -24,7 +24,7 @@ List of available options that enable debugging and custom setup can be viewied 
 
 > python CAMouse.py -h
 
-##Usage
+## Usage
 
 App is tracking an index finger tip for cursor movement.
 Cursor moves only if index finger is pointing up.
